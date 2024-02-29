@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-🌐 My name is Eren Süner and I'm a big fan of Web3.<br>
-🔭 I'm currently interested in the blockchain space.<br>
-🌱 I'm learning Solidity and plan to become a backend developer.<br>
-
+🌐 My name is Eren Süner and I'm 19 years old.<br>
+✍🏻 I am currently a sophomore in Computer Engineering at Istanbul Technical University.<br>
+🔭 Interested in blockchain, smart contracts, dApps etc.<br>
+🌱 Learning Solidity and plan to become a backend developer.<br>
+🧠 Passionate about learning<br>
 
 
